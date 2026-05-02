@@ -47,7 +47,7 @@ Backend API for managing school data, built with Node.js, Express.js, and MySQL.
 
 ### 1. Add School (Postman)
 
-![screenshots/Screenshot 2026-05-01 201646.png]
+![](https://github.com/Sidd444/School-Management/blob/main/screenshots/Screenshot%202026-05-01%20201646.png)
 
 ### 2. List Schools (Postman)
 
